@@ -61,3 +61,5 @@ Frontend in Vue .
 ## User Auth and CRUD
 
 ### [CRUD](https://github.com/topsport-com-au/starlite-saqlalchemy)
+
+### [Usr Auth and Verification](https://github.com/LonelyVikingMichael/starlite-users)
