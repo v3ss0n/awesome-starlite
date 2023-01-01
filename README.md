@@ -32,39 +32,40 @@ def hello_world() -> dict[str, str]:
 
 ## Starter Templates
 
-### [Minimal CookieCutter](https://github.com/JeromeK13/starlite-minimal-starter)
+* [Minimal CookieCutter](https://github.com/JeromeK13/starlite-minimal-starter)
+  
+  Bare minimal Cookie Cutter
+* [Starlite Template with Docker Builtin](https://github.com/lesnik512/starlite-sqlalchemy-template)
+  
+  Docker ready Starlite template
 
-Bare minimal Coockie Cutter
+* [starlite-pg-redis-docker](https://github.com/starlite-api/starlite-pg-redis-docker/blob/main/static/starlite-banner.svg)
 
-### [Starlite Template with Docker Builtin](https://github.com/lesnik512/starlite-sqlalchemy-template)
+  Full featured  [Starlite](https://github.com/starlite-api/starlite) project using SQLAlchemy + Alembic + postgresql, Redis, SAQ and Docker.
 
-### [starlite-pg-redis-docker](https://github.com/starlite-api/starlite-pg-redis-docker/blob/main/static/starlite-banner.svg)
+* [starlite-hello-world](https://github.com/starlite-api/starlite-hello-world)
 
-This is an example [Starlite](https://github.com/starlite-api/starlite) project using SQLAlchemy + Alembic + postgresql,
-Redis, SAQ and Docker.
+  Minimum starter template for starlite.
 
-### [starlite-hello-world](https://github.com/starlite-api/starlite-hello-world)
-
-Minimum starter template for starlite.
-
-### [starlite-fullstack](https://github.com/cofin/starlite-full-stack-example)
-
-Full stack both frontend and backend .
-Frontend in Vue .
+* [starlite-fullstack](https://github.com/cofin/starlite-full-stack-example)
+  Full stack backend and Vue frontend  .
 
 ## Examples
 
-[Starlite-Tile38](https://github.com/iwpnd/starlite-tile38)
+* [Starlite-Tile38](https://github.com/iwpnd/starlite-tile38)
+  
+  GPS/GIS exmaple using route38 and starlite
 
+## User management and Auth
 
-## User Auth and CRUD
-
-### [CRUD](https://github.com/topsport-com-au/starlite-saqlalchemy)
-
-### [Usr Auth and Verification](https://github.com/LonelyVikingMichael/starlite-users)
+* [User Auth and Verification](https://github.com/LonelyVikingMichael/starlite-users)
+  
+  User and Auth features for starlite with builtin support for :
+  * Session, JWT and JWTCookie , Role based Guards
+  * Routes For Authentication,Registration,Verification,Password reset, User CRUD , Role CRUD, Assignment/revocation of roles to/from users
 
 ## Utilities
 
-[starlite-saqlalchemy](https://github.com/topsport-com-au/starlite-saqlalchemy)
-
-Starlite API boilerplate abstraction and utilities.
+* [starlite-saqlalchemy](https://github.com/topsport-com-au/starlite-saqlalchemy)
+  
+  Starlite API boilerplate abstraction and utilities.
