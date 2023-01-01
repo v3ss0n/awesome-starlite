@@ -32,18 +32,18 @@ def hello_world() -> dict[str, str]:
 
 ## Starter Templates
 
-* [Minimal CookieCutter](https://github.com/JeromeK13/starlite-minimal-starter)
+* [JeromeK13/starlite-minimal-starter](https://github.com/JeromeK13/starlite-minimal-starter)
   
   Bare minimal Cookie Cutter
-* [Starlite Template with Docker Builtin](https://github.com/lesnik512/starlite-sqlalchemy-template)
+* [lesnik512/starlite-sqlalchemy-template])(<https://github.com/lesnik512/starlite-sqlalchemy-template>)
   
   Docker ready Starlite template
 
-* [starlite-pg-redis-docker](https://github.com/starlite-api/starlite-pg-redis-docker/blob/main/static/starlite-banner.svg)
+* [starlite-api/starlite-pg-redis-docker](https://github.com/starlite-api/starlite-pg-redis-docker/blob/main/static/starlite-banner.svg)
 
   Full featured  [Starlite](https://github.com/starlite-api/starlite) project using SQLAlchemy + Alembic + postgresql, Redis, SAQ and Docker.
 
-* [starlite-hello-world](https://github.com/starlite-api/starlite-hello-world)
+* [starlite-api/starlite-hello-world](https://github.com/starlite-api/starlite-hello-world)
 
   Minimum starter template for starlite.
 
@@ -58,7 +58,7 @@ def hello_world() -> dict[str, str]:
 
 ## User management and Auth
 
-* [User Auth and Verification](https://github.com/LonelyVikingMichael/starlite-users)
+* [starlite-users](https://github.com/LonelyVikingMichael/starlite-users)
   
   User and Auth features for starlite with builtin support for :
   * Session, JWT and JWTCookie , Role based Guards
