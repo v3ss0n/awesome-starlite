@@ -56,7 +56,6 @@ Frontend in Vue .
 
 [Starlite-Tile38](https://github.com/iwpnd/starlite-tile38)
 
-[Strlite-Sqlalchemy](https://github.com/topsport-com-au/example-starlite-saqlalchemy)
 
 ## User Auth and CRUD
 
