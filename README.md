@@ -35,7 +35,7 @@ def hello_world() -> dict[str, str]:
 * [JeromeK13/starlite-minimal-starter](https://github.com/JeromeK13/starlite-minimal-starter)
   
   Bare minimal Cookie Cutter
-* [lesnik512/starlite-sqlalchemy-template])(<https://github.com/lesnik512/starlite-sqlalchemy-template>)
+* [lesnik512/starlite-sqlalchemy-template](<https://github.com/lesnik512/starlite-sqlalchemy-template>)
   
   Docker ready Starlite template
 
