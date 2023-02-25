@@ -51,8 +51,11 @@ def hello_world() -> dict[str, str]:
 
 * [starlite-api/starlite-hello-world](https://github.com/starlite-api/starlite-hello-world)
 
-  Minimum starter template for starlite.
+  Minimal starter  template for starlite.
 
+* [starlite-piccolo](https://github.com/sinisaos/starlite-piccolo/tree/main/backend)
+
+  Minimal starter template for starlite with Piccolo ORM.
 
 ## Examples
 
