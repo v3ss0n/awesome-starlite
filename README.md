@@ -32,30 +32,40 @@ def hello_world() -> dict[str, str]:
 
 ## Starter Templates
 
-* [starlite-fullstack](https://github.com/cofin/starlite-full-stack-example)
-  Full stack backend and Vue frontend  .
-  
+### Easy Starters
+
 * [starlite-halfstack-cookiecutter](https://github.com/v3ss0n/starlite-halfstack-cookiecutter)
   Simpilfied version of official pq starter [starlite-api/starlite-pg-redis-docker](https://github.com/starlite-api/starlite-pg-redis-docker/blob/main/static/starlite-banner.svg) , by using https://github.com/topsport-com-au/starlite-saqlalchemy lib
 
 * [JeromeK13/starlite-minimal-starter](https://github.com/JeromeK13/starlite-minimal-starter)
   
   Bare minimal Cookie Cutter
-* [lesnik512/starlite-sqlalchemy-template](<https://github.com/lesnik512/starlite-sqlalchemy-template>)
-  
-  Docker ready Starlite template
 
-* [starlite-api/starlite-pg-redis-docker](https://github.com/starlite-api/starlite-pg-redis-docker/blob/main/static/starlite-banner.svg)
+### Full Stack
+
+* [starlite-fullstack](https://github.com/cofin/starlite-full-stack-example)
+  Full stack backend and Vue frontend  .
+
+* [starlite-api/starlite-pg-redis-docker](https://github.com/starlite-api/starlite-pg-redis-docker/)
 
   Full featured  [Starlite](https://github.com/starlite-api/starlite) project using SQLAlchemy + Alembic + postgresql, Redis, SAQ and Docker.
+
+* [starlite-piccolo](https://github.com/sinisaos/starlite-piccolo/tree/main/backend)
+
+  Fullstack starter template for starlite with Piccolo ORM.
+
+### Minimal
+
 
 * [starlite-api/starlite-hello-world](https://github.com/starlite-api/starlite-hello-world)
 
   Minimal starter  template for starlite.
 
-* [starlite-piccolo](https://github.com/sinisaos/starlite-piccolo/tree/main/backend)
 
-  Fullstack starter template for starlite with Piccolo ORM.
+* [lesnik512/starlite-sqlalchemy-template](<https://github.com/lesnik512/starlite-sqlalchemy-template>)
+  
+  Docker ready Starlite template
+
 
 ## Examples
 
