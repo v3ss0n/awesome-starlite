@@ -55,7 +55,7 @@ def hello_world() -> dict[str, str]:
 
 * [starlite-piccolo](https://github.com/sinisaos/starlite-piccolo/tree/main/backend)
 
-  Minimal starter template for starlite with Piccolo ORM.
+  Fullstack starter template for starlite with Piccolo ORM.
 
 ## Examples
 
